@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Pedro Solozabal. 
-- I'm 41 years old currently, married and father of 2 children.
+- Born in 1983, married and father of 2 children.
 - I was a Dietitian/Nutritionist graduated since 2007 who worked for more than 1 decade in nutritional supplements retail.
 - Have XP with management, leadership and sales.
 - So, in 2023 I embarked on a bold and exciting career transition to the IT field.
-- I did 5 months of internship in Back End with Java, Spring Boot and AWS where I was able to get the Cloud Practitioner Certification successfully.
-- 
+- And I did 5 months of internship in Back End with Java, Spring Boot and AWS where I was able to get the Cloud Practitioner Certification successfully at Compass UOL.
+
 ## 👀 Interests
 - Job opportunities with back-end development in Java with Spring Boot
 - Continuous learning and professional growth.
