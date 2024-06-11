@@ -3,7 +3,7 @@
 - I was a Dietitian/Nutritionist graduated since 2007 who worked for more than 1 decade in nutritional supplements retail.
 - Have XP with management, leadership and sales.
 - So, in 2023 I embarked on a bold and exciting career transition to the IT field.
-- And I did 5 months of internship in Back End with Java, Spring Boot and AWS where I was able to get the Cloud Practitioner Certification successfully at Compass UOL.
+- Also in 2023 I did 5 months of internship in Back End with Java, Spring Boot and AWS where I was able to get the Cloud Practitioner Certification successfully at Compass UOL.
 
 ## 👀 Interests
 - Job opportunities with back-end development in Java with Spring Boot
@@ -22,9 +22,9 @@
 He/Him.
 
 ## ⚡ Fun fact:
-- I love music, watch movies with my wife and kids, series and books.
+- I love music, to watch movies and series with my wife and kids, to read books and to drive.
 
-## Skills
+## ⚙️ Skills:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -51,7 +51,7 @@ He/Him.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📫 How to reach me:
+## 📫 How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrosolozabal)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562981589221)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@solozabal.com.br)
