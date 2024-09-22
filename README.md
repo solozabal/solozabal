@@ -1,22 +1,20 @@
 # 👋 Hi, I’m Pedro Solozabal. 
 - Born in 1983, married and father of 2 children.
-- I was a Dietitian/Nutritionist graduated since 2007 who worked for more than 1 decade in nutritional supplements retail.
-- Have XP with management, leadership and sales.
-- So, in 2023 I embarked on a bold and exciting career transition to the IT field.
-- Also in 2023 I did 5 months of internship in Back End with Java, Spring Boot and AWS where I was able to get the Cloud Practitioner Certification successfully at Compass UOL.
+- I started working at 14, exploring various fields before earning my degree in Nutrition in 2007.
+- Early in my career, I managed industrial and self-service restaurants.
+- By 2011, I spent a decade in the retail sector for nutritional supplements and pharmaceuticals, developing deep industry expertise.
+- This experience led me to manage a natural products franchise, where I further refined my leadership and management skills.
+- In 2022, I made a bold career transition.
+- In 2023, I earned a scholarship at Compass UOL, specializing in Java, Spring Boot, AWS, and obtaining the Cloud Practitioner certification.
+- In 2024, at 41, I achieved my first goal of becoming a Information System Programmer at Compass UOL.
+- Now, I’m focused on enhancing my technical skills and contributing to the success of Compass UOL’s clients.
+- Feel free to reach out if you’d like to discuss industry trends or innovative solutions.
 
 ## 👀 Interests
-- Job opportunities with back-end development in Java with Spring Boot
 - Continuous learning and professional growth.
 
 ## 🌱 Currently Learning
-- Santander Bootcamp in back-end development techniques with Java and Spring Boot.
-- After that, I will dedicate myself to building practical projects to consolidate my knowledge and enhance my portfolio.
-
-## 💞️ Looking to Collaborate On:
-- Java and Spring Boot projects.
-- Cloud-based applications and services with AWS.
-- Open-source projects in need of a dedicated back-end developer.
+- Web Development at Faculdade Anhanguera
 
 ## 😄 Pronouns:
 He/Him.
@@ -50,6 +48,9 @@ He/Him.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📫 How to reach me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrosolozabal)
