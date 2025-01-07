@@ -6,8 +6,8 @@
 - This experience led me to manage a natural products franchise, where I further refined my leadership and management skills.
 - In 2022, I made a bold career transition.
 - In 2023, I earned a scholarship at Compass UOL, specializing in Java, Spring Boot, AWS, and obtaining the Cloud Practitioner certification.
-- In 2024, at 41, I achieved my first goal of becoming a Information System Programmer at Compass UOL.
-- Now, I’m focused on enhancing my technical skills and contributing to the success of Compass UOL’s clients.
+- In 2024, I achieved my first goal of becoming a Information System Programmer at Compass UOL and and obtained my second AWS certification. 
+- Now, I’m focused on enhancing my technical skills and searching and looking for a new job opportunity.
 - Feel free to reach out if you’d like to discuss industry trends or innovative solutions.
 
 ## 👀 Interests
@@ -15,9 +15,6 @@
 
 ## 🌱 Currently Learning
 - Web Development at Faculdade Anhanguera
-
-## 😄 Pronouns:
-He/Him.
 
 ## ⚡ Fun fact:
 - I love music, to watch movies and series with my wife and kids, to read books and to drive.
