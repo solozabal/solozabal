@@ -4,17 +4,16 @@
 - Early in my career, I managed industrial and self-service restaurants.
 - By 2011, I spent a decade in the retail sector for nutritional supplements and pharmaceuticals, developing deep industry expertise.
 - This experience led me to manage a natural products franchise, where I further refined my leadership and management skills.
-- In 2022, I made a bold career transition.
-- In 2023, I earned a scholarship at Compass UOL, specializing in Java, Spring Boot, AWS, and obtaining the Cloud Practitioner certification.
-- In 2024, I achieved my first goal of becoming a Information System Programmer at Compass UOL and and obtained my second AWS certification. 
-- Now, I’m focused on enhancing my technical skills and searching and looking for a new job opportunity.
+- In 2023, I made a bold career transition and earned a scholarship at Compass UOL, specializing in Java, Spring Boot, AWS, and obtaining the Cloud Practitioner certification.
+- In 2024, I achieved my first goal of becoming a Information System Programmer at Compass UOL working on Vivo Telefonica project and obtained my second AWS certification AI Practitioner.
+- Now, I’m focused on enhancing my technical skills and searching and looking for a new job opportunity as Jr Programmer/Developer.
 - Feel free to reach out if you’d like to discuss industry trends or innovative solutions.
 
 ## 👀 Interests
 - Continuous learning and professional growth.
 
 ## 🌱 Currently Learning
-- Web Development at Faculdade Anhanguera
+- Web Development at Faculdade Anhanguera, doing practical programming projects to improve my portfolio here on GitHub.
 
 ## ⚡ Fun fact:
 - I love music, to watch movies and series with my wife and kids, to read books and to drive.
@@ -50,8 +49,3 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-## 📫 How to reach me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrosolozabal)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562981589221)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@solozabal.com.br)
