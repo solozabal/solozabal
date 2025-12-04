@@ -1,51 +1,96 @@
-# 👋 Hi, I’m Pedro Solozabal. 
-- Born in 1983, married and father of 2 children.
-- I started working at 14, exploring various fields before earning my degree in Nutrition in 2007.
-- Early in my career, I managed industrial and self-service restaurants.
-- By 2011, I spent a decade in the retail sector for nutritional supplements and pharmaceuticals, developing deep industry expertise.
-- This experience led me to manage a natural products franchise, where I further refined my leadership and management skills.
-- In 2023, I made a bold career transition and earned a scholarship at Compass UOL, specializing in Java, Spring Boot, AWS, and obtaining the Cloud Practitioner certification.
-- In 2024, I achieved my first goal of becoming a Information System Programmer at Compass UOL working on Vivo Telefonica project and obtained my second AWS certification AI Practitioner.
-- Now, I’m focused on enhancing my technical skills and searching and looking for a new job opportunity as Jr Programmer/Developer.
-- Feel free to reach out if you’d like to discuss industry trends or innovative solutions.
+# Pedro Solozabal — Web Developer · AI Automation & Cloud Solutions
 
-## 👀 Interests
-- Continuous learning and professional growth.
+Driving Growth Enterprises with Cloud, AI & Web Solutions
 
-## 🌱 Currently Learning
-- Web Development at Faculdade Anhanguera, doing practical programming projects to improve my portfolio here on GitHub.
+---
 
-## ⚡ Fun fact:
-- I love music, to watch movies and series with my wife and kids, to read books and to drive.
+<p align="left">
+  <!-- Core badges -->
+  <img src="https://img.shields.io/badge/Web%20Developer-121212?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer" />
+  <img src="https://img.shields.io/badge/AI%20Automation-1F6FEB?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Cloud%20Solutions-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Solutions" />
+</p>
 
-## ⚙️ Skills:
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-49A078?style=for-the-badge&logo=junit5&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-0495D2?style=for-the-badge&logo=cucumber&logoColor=white)
-![ATTD](https://img.shields.io/badge/ATDD-4E823D?style=for-the-badge&logo=selenium&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=micros&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-DC343B?style=for-the-badge&logo=mockito&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![RESTful](https://img.shields.io/badge/RESTful-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=adobe&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=getbootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" alt="GSAP" />
+  <img src="https://img.shields.io/badge/SplitType-121212?style=for-the-badge&logo=google-fonts&logoColor=white" alt="SplitType" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Data & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Requests-121212?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-4A154B?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping" />
+</p>
+
+### Infra / Dev
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Cloud
+<p>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
+</p>
+
+---
+
+## Certifications
+
+<p>
+  <a href="https://www.credly.com/earner/earned/badge/1ca27b2d-0fdb-4ee1-aff4-982aba0c32b7" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/0f8043b1-35c8-449d-8389-4708945926a2" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified AI Practitioner" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/f68b9b70-a66d-474a-a0e8-361558c36ace" target="_blank">
+    <img src="https://img.shields.io/badge/GCP%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations Certificate" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/f2fe178b-3831-4602-801d-a64d5e740617" target="_blank">
+    <img src="https://img.shields.io/badge/GCP%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Data Analytics Certificate" />
+  </a>
+</p>
+
+---
+
+## Experience
+- Compass UOL — Programmer Trainee  
+  Back-end enhancements in Java, testing with Ruby/Cucumber, using Azure cloud resources. Agile Scrum ceremonies and Jira workflows. Earned AWS AI Practitioner certification during this experience.
+
+- Compass UOL — Tech Training Scholarship  
+  Intensive back-end training in Java, Spring Boot, and AWS. Covered security, Git, SQL, MongoDB, Scrum/Kanban, RabbitMQ, JWT, OAuth2, MVC, and microservices. Applied in three practical projects and earned AWS Cloud Practitioner.
+
+---
+
+## Contact
+<p>
+  <a href="https://www.linkedin.com/in/pedro-solozabal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/solozabal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
