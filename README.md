@@ -37,6 +37,9 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Requests-121212?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
   <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
   <img src="https://img.shields.io/badge/Web%20Scraping-4A154B?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping" />
