@@ -41,11 +41,11 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
   <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
 </p>
 
-- **Processamento de Dados**: Pandas · Web Scraping (PHP, Python)
-- **Machine Learning Básico**: Classificação/Relevância (LLMs, Regras, Keywords)
-- **API Integration, Webhooks e OAuth**
-- **Docker, Git, CI/CD básico**
-- **Hospedagem cloud/shared:** Deploy em Hostinger, Linux CLI, Apache .htaccess, ambientes .env
+- **Data Processing**: Pandas · Web Scraping (PHP, Python)
+- **Basic Machine Learning**: Classification/Relevance (LLMs, Rules, Keywords)
+- **API Integration, Webhooks and OAuth**
+- **Docker, Git, Basic CI/CD**
+- **Cloud/Shared Hosting:** Deployment on Hostinger, Linux CLI, Apache .htaccess, .env environments
 
 ### Cloud & Infra
 <p>
@@ -56,19 +56,19 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 - Deploy, Domain, SSL & Email (Hostinger/hPanel)
 - MySQL setup, phpMyAdmin, backup scripts
-- Cron Job, Health Checks, Monitoramento
+- Cron Job, Health Checks, Monitoring
 
 ---
 
 ## 🤝 Soft Skills
 
-- **Gestão de Projetos Ágeis:** Scrum, Kanban, sprints semanais, priorização de backlog
-- **Documentação:** README, API Docs, Architecture Decisions, Troubleshooting
-- **Comunicação**: Didática para onboarding beta testers, coleta de feedback, suporte a usuários finais
-- **Resiliência e Troubleshooting**: Diagnóstico, monitoramento, fallback, logs estruturados e tomada de decisão rápida
-- **User-centric Design**: Foco no problema real do cliente, interface intuitiva, UX acessível
-- **Visão de Produto**: Roadmap, evolução de MVP para produção, value proposition clara
-
+- **Agile Project Management:** Scrum, Kanban, weekly sprints, backlog prioritization
+- **Documentation:** README, API Docs, Architecture Decisions, Troubleshooting
+- **Communication:** Didactics for onboarding beta testers, feedback collection, end-user support
+- **Resilience and Troubleshooting:** Diagnosis, monitoring, fallback, structured logs, and rapid decision-making
+- **User-centric Design:** Focus on the customer's real problem, intuitive interface, accessible UX
+- **Product Vision:** Roadmap, evolution from MVP to production, clear value proposition
+  
 ---
 
 ## 🎓 Certifications
