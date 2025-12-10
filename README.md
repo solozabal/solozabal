@@ -13,7 +13,7 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 ---
 
-## 🛠️ Hard Skills
+## 🛠️ Technologies & Workflow
 
 ### Backend
 <p>
@@ -63,17 +63,27 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 ### Data, AI & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Eloquent%20ORM-ffffff?style=for-the-badge&logo=laravel&logoColor=red" alt="Laravel Eloquent" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <!-- ===== DATA SOURCES ===== -->
+  <strong>📥 Data Sources</strong><br>
   <img src="https://img.shields.io/badge/RSS_Feeds-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feeds" />
-  <img src="https://img.shields.io/badge/DeepSeek%20API-1F6FEB?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek API" />
-  <img src="https://img.shields.io/badge/GNews%20API-4285F4?style=for-the-badge&logo=google-news&logoColor=white" alt="GNews API" />
+  <img src="https://img.shields.io/badge/GNews_API-4285F4?style=for-the-badge&logo=google-news&logoColor=white" alt="GNews API" />
+  <img src="https://img.shields.io/badge/IBGE_SIDRA_API-009C3B?style=for-the-badge&logo=data&logoColor=white" alt="IBGE SIDRA API" />
+  <br>
+  <!-- ===== PROCESSING & INTELLIGENCE ===== -->
+  <strong>⚙️ Processing & Intelligence</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Web_Scraping-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Web Scraping (PHP)" />
+  <img src="https://img.shields.io/badge/DeepSeek_API-0A66C2?style=for-the-badge&logo=ai&logoColor=white" alt="DeepSeek API" />
+  <br>
+  <!-- ===== DELIVERY & VISUALIZATION ===== -->
+  <strong>📤 Delivery & Visualization</strong><br>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/IBGE%20SIDRA%20API-006CA6?style=for-the-badge&logoColor=white" alt="IBGE SIDRA API" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
+
 
 ### Data, AI & Analytics · Hard Skills
 
