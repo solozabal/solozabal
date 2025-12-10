@@ -70,11 +70,20 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-- **Data Engineering:** SQLite DB design, ETL pipeline construction (Python)
-- **Data Science/EDA:** Pandas for cleaning, joining, and complex groupings
-- **Professional Data Visualization:** Matplotlib/Seaborn, out-of-the-box for trend analysis and portfolio-quality charts
-- **Customization:** Integration with Streamlit, automation with schedulers/GitHub Actions
-- **Machine Learning:** Basic ML workflows (classification/metrics), exploratory model prototyping
+### Data, AI & Analytics · Hard Skills
+
+- Python (data pipelines, automation)
+- Pandas (ETL, EDA, feature extraction)
+- SQL/MySQL/SQLite (data modeling, optimization, partitioning)
+- Matplotlib & Seaborn (statistical, trend & portfolio visualization)
+- Chart.js, ApexCharts (interactive visualization on dashboard)
+- Machine Learning (basic classification, keyword-based, sectorial relevance scoring)
+- LLM integration (content summarization, language adaptation, relevance filtering)
+- Automated scraping & aggregation (RSS, APIs)
+- Hybrid rule/AI content classification workflows
+- API Analytics (quota management, error tracking, health/status monitoring)
+- Real-time metrics dashboarding
+- Automated reporting (scheduling, data enrichment, feedback collection)
 
 ### Cloud & Infra
 <p>
