@@ -1,4 +1,4 @@
-# Pedro Solozabal — Web Developer · AI Automation & Cloud Solutions
+# Web Developer · AI Automation & Cloud Solutions
 
 Driving Growth Enterprises with Cloud, AI & Web Solutions
 
