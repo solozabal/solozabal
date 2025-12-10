@@ -42,7 +42,7 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Requests-121212?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
   <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-4A154B?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Web Scraping PHP" />
 </p>
 
 ### Infra / Dev
