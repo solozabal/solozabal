@@ -13,16 +13,6 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 ---
 
-## 🏆 Featured Portfolio Projects
-
-- [Health Retail Intelligence Architecture](https://github.com/solozabal/healthy-retail-monitor-ai-laravel-vue) — Laravel, Vue, Telegram Bot, Hostinger, MySQL, Automated Content and Analytics
-- [Daily Diet API](https://github.com/solozabal/rocketseat-node-js-challenge-02) — Node.js, Fastify, Prisma, PostgreSQL, JWT, Docker, 100% Test Coverage
-- [ML Sales Analysis](https://github.com/solozabal/anhanguera-ml-sales-analysis-python) — Python, Pandas, SQLite, Matplotlib/Seaborn, ETL Pipeline, Data Visualization
-- [Santander Bootcamp Task Manager](https://github.com/solozabal/dio-santander-bootcamp-task-manager-springboot) — Java, Spring Boot, JWT, H2, Swagger
-- [Senior Health & Medication Education Platform](https://github.com/solozabal/anhanguera-extension-project-II-frontend) — PHP, JS, HTML/CSS, Bootstrap, LGPD Compliance
-
----
-
 ## 🛠️ Hard Skills
 
 ### Backend
@@ -74,9 +64,14 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Eloquent%20ORM-ffffff?style=for-the-badge&logo=laravel&logoColor=red" alt="Laravel Eloquent" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/RSS_Feeds-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feeds" />
+  <img src="https://img.shields.io/badge/DeepSeek%20API-1F6FEB?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek API" />
+  <img src="https://img.shields.io/badge/GNews%20API-4285F4?style=for-the-badge&logo=google-news&logoColor=white" alt="GNews API" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/IBGE%20SIDRA%20API-006CA6?style=for-the-badge&logoColor=white" alt="IBGE SIDRA API" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
