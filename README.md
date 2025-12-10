@@ -13,6 +13,16 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 ---
 
+## 🏆 Featured Portfolio Projects
+
+- [Health Retail Intelligence Architecture](https://github.com/solozabal/healthy-retail-monitor-ai-laravel-vue) — Laravel, Vue, Telegram Bot, Hostinger, MySQL, Automated Content and Analytics
+- [Daily Diet API](https://github.com/solozabal/rocketseat-node-js-challenge-02) — Node.js, Fastify, Prisma, PostgreSQL, JWT, Docker, 100% Test Coverage
+- [ML Sales Analysis](https://github.com/solozabal/anhanguera-ml-sales-analysis-python) — Python, Pandas, SQLite, Matplotlib/Seaborn, ETL Pipeline, Data Visualization
+- [Santander Bootcamp Task Manager](https://github.com/solozabal/dio-santander-bootcamp-task-manager-springboot) — Java, Spring Boot, JWT, H2, Swagger
+- [Senior Health & Medication Education Platform](https://github.com/solozabal/anhanguera-extension-project-II-frontend) — PHP, JS, HTML/CSS, Bootstrap, LGPD Compliance
+
+---
+
 ## 🛠️ Hard Skills
 
 ### Backend
