@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Web Developer · AI Automation & Cloud Solutions
+# 👨🏻‍💻 Web Developer · AI Automation · Cloud Solutions
 <p align="center">
   <em>Driving growth with Cloud, AI & Web solutions</em>
 </p>
