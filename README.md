@@ -1,15 +1,40 @@
-# Web Developer · AI Automation & Cloud Solutions
+# 👨🏻‍💻 Web Developer · AI Automation & Cloud Solutions
+<p align="center">
+  <em>Driving growth with Cloud, AI & Web solutions</em>
+</p>
 
-Driving Growth Enterprises with Cloud, AI & Web Solutions
-
----
-
-<p align="left">
+<p align="center">
   <!-- Core badges -->
   <img src="https://img.shields.io/badge/Web%20Developer-121212?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer" />
   <img src="https://img.shields.io/badge/AI%20Automation-1F6FEB?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/Cloud%20Solutions-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Solutions" />
+  <img src="https://img.shields.io/badge/Cloud%20Solutions-0A66C2?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Solutions" />
 </p>
+
+---
+
+# ✨ Highlight Projects
+
+A short selection of recent projects — concise, focused, ready for a README card.
+
+- [Healthy Retail Monitor AI](https://github.com/solozabal/healthy-retail-monitor-ai-laravel-vue)  
+  AI monitoring for pharmacies, body shops and natural-product stores — automated ingestion, analytics dashboard, and Telegram alerts to help with insights to improve sales and profit.
+  _Tech: Laravel · Vue.js · Telegram_
+
+- [Anhanguera ML — Sales Analysis (Python)](https://github.com/solozabal/anhanguera-ml-sales-analysis-python)  
+  Reproducible sales analysis with SQLite + Pandas and clear Matplotlib/Seaborn visualizations.  
+  _Tech: Python · Pandas · Matplotlib · Seaborn · SQLite_
+
+- [Daily Diet API (Node.js)](https://github.com/solozabal/rocketseat-node-js-challenge-02)  
+  Minimal REST API to log meals, track diet compliance and expose per-user metrics (auth + CRUD).  
+  _Tech: Node.js · Fastify · Prisma_
+
+- [Subscription Dashboard — Streamlit](https://github.com/solozabal/dio-heineken-bootcamp-dashboard-python-excel)  
+  Interactive Streamlit dashboard with KPIs and charts — Docker-ready for deployment.  
+  _Tech: Python · Streamlit · Pandas · Docker_
+
+- [Anhanguera Extension — Frontend](https://github.com/solozabal/anhanguera-extension-project-II-frontend)  
+  Senior-focused informational frontend about medicines and vaccines — responsive and LGPD-aware.  
+  _Tech: PHP · MySQL · Bootstrap · JavaScript_
 
 ---
 
@@ -28,18 +53,6 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-- **REST APIs**: Laravel Controllers, Node.js (Fastify), Java (Spring Boot)
-- **Middleware & Security**: Auth (JWT, sessions), Rate Limiting, Circuit Breaker, custom error handling
-- **ORM/Database**: Eloquent ORM (MySQL), Prisma (PostgreSQL), Spring Data JPA/Hibernate (H2/MySQL/PostgreSQL), SQLite for analytics
-- **Database migration/seeders:** Laravel, Prisma, JPA
-- **CRUD & Relational Modeling:** User/Task/Meal/Project/Category entities with strong validation and relationships
-- **Asynchronous processing:** Laravel Queues/Jobs/Scheduler, Node.js event lifecycle
-- **API Documentation:** OpenAPI/Swagger (Spring Boot, Node.js)
-- **Data validation:** Zod (Node.js), Laravel Validator, Java Bean Validation
-- **Testing:** PHPUnit, Jest, Supertest (Node.js), Spring Boot Test, in-memory DB for isolated tests
-- **Dockerization:** Multi-service apps for local dev (Node/PostgreSQL/Prisma), infrastructure-as-code for easy setup
-- **Integration Skills:** GNews API, IBGE public APIs, Telegram Webhook, email/SMS services
-
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
@@ -49,107 +62,51 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-- **SPA (Single Page Application)**: Vue.js 3 with Composition API, modular componentization, router and store setup
-- **State Management**: Pinia (current), Vuex (legacy); using context and hooks for stateful logic
-- **UI/UX Libraries:** PrimeVue, Element Plus, Bootstrap, custom modals/forms
-- **Data Visualization:** Chart.js, ApexCharts, interactive/animated plots via JavaScript, Matplotlib/Seaborn (for reports or analytics)
-- **API Consumption:** Axios/Fetch/Native XHR, JWT auth flows, token renewal
-- **Static/Server Rendering:** Vite/Webpack build chain (Vue/Laravel), also experience using ES6+ with HTML/CSS for educational and public sites
-- **Testing and QA:** Manual browser tests, screenshots, interactive quizzes, accessibility checks
-- **Web Fundamentals:** HTML5, CSS3 (responsive UI), PHP for backend integration with form processing, AJAX, and real-time feedback
-- **Real-Time Dashboards/Admin Panels:** Bootstrap, vanilla JS or Vue for admin pages, health metrics, and CRUD
-- **Lead capture & LGPD Compliance:** Data protection forms, cookie management, front-end validation
-
 ### Data, AI & Analytics
-
 <p>
-  <!-- ===== DATA SOURCES ===== -->
-  <strong>📥 Data Sources</strong><br>
-  <img src="https://img.shields.io/badge/RSS_Feeds-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feeds" />
-  <img src="https://img.shields.io/badge/GNews_API-4285F4?style=for-the-badge&logo=google-news&logoColor=white" alt="GNews API" />
-  <img src="https://img.shields.io/badge/IBGE_SIDRA_API-009C3B?style=for-the-badge&logo=data&logoColor=white" alt="IBGE SIDRA API" />
-  <br>
-  <!-- ===== PROCESSING & INTELLIGENCE ===== -->
-  <strong>⚙️ Processing & Intelligence</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Web_Scraping-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Web Scraping (PHP)" />
-  <img src="https://img.shields.io/badge/DeepSeek_API-0A66C2?style=for-the-badge&logo=ai&logoColor=white" alt="DeepSeek API" />
-  <br>
-  <!-- ===== DELIVERY & VISUALIZATION ===== -->
-  <strong>📤 Delivery & Visualization</strong><br>
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram Bot API" />
 </p>
-
-
-### Data, AI & Analytics · Hard Skills
-
-- Python (data pipelines, automation)
-- Pandas (ETL, EDA, feature extraction)
-- SQL/MySQL/SQLite (data modeling, optimization, partitioning)
-- Matplotlib & Seaborn (statistical, trend & portfolio visualization)
-- Chart.js, ApexCharts (interactive visualization on dashboard)
-- Machine Learning (basic classification, keyword-based, sectorial relevance scoring)
-- LLM integration (content summarization, language adaptation, relevance filtering)
-- Automated scraping & aggregation (RSS, APIs)
-- Hybrid rule/AI content classification workflows
-- API Analytics (quota management, error tracking, health/status monitoring)
-- Real-time metrics dashboarding
-- Automated reporting (scheduling, data enrichment, feedback collection)
 
 ### Cloud & Infra
 <p>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
-  <a href="https://www.hostinger.com" target="_blank"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=Hostinger&logoColor=white" alt="Hostinger" /></a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge" alt="Hostinger" />
 </p>
-
-- Deploy, Domain, SSL & Email (Hostinger/hPanel)
-- MySQL setup, phpMyAdmin, backup scripts
-- Cron Job, Health Checks, Monitoring
 
 ---
 
 ## 🤝 Soft Skills
 
-- **Agile Project Management:** Scrum, Kanban, weekly sprints, backlog prioritization
-- **Documentation:** README, API Docs, Architecture Decisions, Troubleshooting
-- **Communication:** Didactics for onboarding beta testers, feedback collection, end-user support
-- **Resilience and Troubleshooting:** Diagnosis, monitoring, fallback, structured logs, and rapid decision-making
-- **User-centric Design:** Focus on the customer's real problem, intuitive interface, accessible UX
-- **Product Vision:** Roadmap, evolution from MVP to production, clear value proposition
-  
+- Agile (Scrum & Kanban) · Product-minded engineering  
+- Documentation & onboarding · Clear API docs and READMEs  
+- Troubleshooting, monitoring, and rapid incident response  
+- User-centered design and accessible UX
+
 ---
 
 ## 🎓 Certifications
-
 <p>
-  <a href="https://www.credly.com/earner/earned/badge/1ca27b2d-0fdb-4ee1-aff4-982aba0c32b7" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/0f8043b1-35c8-449d-8389-4708945926a2" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified AI Practitioner" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/f68b9b70-a66d-474a-a0e8-361558c36ace" target="_blank">
-    <img src="https://img.shields.io/badge/GCP%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations Certificate" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/f2fe178b-3831-4602-801d-a64d5e740617" target="_blank">
-    <img src="https://img.shields.io/badge/GCP%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Data Analytics Certificate" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS AI Practitioner" />
+  <img src="https://img.shields.io/badge/GCP%20Foundations-4285F4?style=for-the-badge&logo=google-cloud" alt="GCP Foundations" />
+  <img src="https://img.shields.io/badge/GCP%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud" alt="GCP Data Analytics" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-- Compass UOL — Programmer Trainee  
-  Back-end enhancements in Java, testing with Ruby/Cucumber, using Azure cloud resources. Agile Scrum ceremonies and Jira workflows. Earned AWS AI Practitioner certification during this experience
+- **Compass UOL — Programmer Trainee**  
+  Enhanced the core billing system by implementing new payment features: recurring Pix transactions and boleto invoice processing using Java. Conducted integration and behavioral testing with Ruby/Cucumber. Deployed and managed resources on Microsoft Azure cloud infrastructure.  
+  Operated in an Agile/Scrum environment using Jira for project management. Earned the AWS Certified AI Practitioner certification during this tenure.
 
-- Compass UOL — Tech Training Scholarship  
-  Intensive back-end training in Java, Spring Boot, and AWS. Covered security, Git, SQL, MongoDB, Scrum/Kanban, RabbitMQ, JWT, OAuth2, MVC, and microservices. Applied in three practical projects
+- **Compass UOL — Tech Training Scholarship**  
+  Intensive back-end training in Java, Spring Boot, and AWS. Covered security, Git, SQL, MongoDB, Scrum/Kanban, RabbitMQ, JWT, OAuth2, MVC, and microservices. Applied in three practical projects. Earned the AWS Certified Cloud Practitioner at the end of this program.
 
 ---
 
