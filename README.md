@@ -13,54 +13,65 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 ---
 
-## Tech Stack
+## 🛠️ Hard Skills
 
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" alt="GSAP" />
-  <img src="https://img.shields.io/badge/SplitType-121212?style=for-the-badge&logo=google-fonts&logoColor=white" alt="SplitType" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" alt="GSAP" />
 </p>
 
-### Data & AI
+### Data, AI & DevOps
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Requests-121212?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
-  <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
   <img src="https://img.shields.io/badge/Web%20Scraping-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Web Scraping PHP" />
+  <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
 </p>
 
-### Infra / Dev
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- **Processamento de Dados**: Pandas · Web Scraping (PHP, Python)
+- **Machine Learning Básico**: Classificação/Relevância (LLMs, Regras, Keywords)
+- **API Integration, Webhooks e OAuth**
+- **Docker, Git, CI/CD básico**
+- **Hospedagem cloud/shared:** Deploy em Hostinger, Linux CLI, Apache .htaccess, ambientes .env
 
-### Cloud
+### Cloud & Infra
 <p>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
+  <a href="https://www.hostinger.com" target="_blank"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=Hostinger&logoColor=white" alt="Hostinger" /></a>
 </p>
+
+- Deploy, Domain, SSL & Email (Hostinger/hPanel)
+- MySQL setup, phpMyAdmin, backup scripts
+- Cron Job, Health Checks, Monitoramento
 
 ---
 
-## Certifications
+## 🤝 Soft Skills
+
+- **Gestão de Projetos Ágeis:** Scrum, Kanban, sprints semanais, priorização de backlog
+- **Documentação:** README, API Docs, Architecture Decisions, Troubleshooting
+- **Comunicação**: Didática para onboarding beta testers, coleta de feedback, suporte a usuários finais
+- **Resiliência e Troubleshooting**: Diagnóstico, monitoramento, fallback, logs estruturados e tomada de decisão rápida
+- **User-centric Design**: Foco no problema real do cliente, interface intuitiva, UX acessível
+- **Visão de Produto**: Roadmap, evolução de MVP para produção, value proposition clara
+
+---
+
+## 🎓 Certifications
 
 <p>
   <a href="https://www.credly.com/earner/earned/badge/1ca27b2d-0fdb-4ee1-aff4-982aba0c32b7" target="_blank">
@@ -79,21 +90,25 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
 
 ---
 
-## Experience
+## 💼 Experience
+
 - Compass UOL — Programmer Trainee  
-  Back-end enhancements in Java, testing with Ruby/Cucumber, using Azure cloud resources. Agile Scrum ceremonies and Jira workflows. Earned AWS AI Practitioner certification during this experience.
+  Back-end enhancements in Java, testing with Ruby/Cucumber, using Azure cloud resources. Agile Scrum ceremonies and Jira workflows. Earned AWS AI Practitioner certification during this experience
 
 - Compass UOL — Tech Training Scholarship  
-  Intensive back-end training in Java, Spring Boot, and AWS. Covered security, Git, SQL, MongoDB, Scrum/Kanban, RabbitMQ, JWT, OAuth2, MVC, and microservices. Applied in three practical projects and earned AWS Cloud Practitioner.
+  Intensive back-end training in Java, Spring Boot, and AWS. Covered security, Git, SQL, MongoDB, Scrum/Kanban, RabbitMQ, JWT, OAuth2, MVC, and microservices. Applied in three practical projects
 
 ---
 
-## Contact
+## 📞 Contact
 <p>
   <a href="https://www.linkedin.com/in/pedro-solozabal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/solozabal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/pedrosolozabal" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
