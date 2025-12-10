@@ -20,32 +20,61 @@ Driving Growth Enterprises with Cloud, AI & Web Solutions
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fastify-grey?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-ORM-orange?style=for-the-badge" alt="Prisma" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
+- **REST APIs**: Laravel Controllers, Node.js (Fastify), Java (Spring Boot)
+- **Middleware & Security**: Auth (JWT, sessions), Rate Limiting, Circuit Breaker, custom error handling
+- **ORM/Database**: Eloquent ORM (MySQL), Prisma (PostgreSQL), Spring Data JPA/Hibernate (H2/MySQL/PostgreSQL), SQLite for analytics
+- **Database migration/seeders:** Laravel, Prisma, JPA
+- **CRUD & Relational Modeling:** User/Task/Meal/Project/Category entities with strong validation and relationships
+- **Asynchronous processing:** Laravel Queues/Jobs/Scheduler, Node.js event lifecycle
+- **API Documentation:** OpenAPI/Swagger (Spring Boot, Node.js)
+- **Data validation:** Zod (Node.js), Laravel Validator, Java Bean Validation
+- **Testing:** PHPUnit, Jest, Supertest (Node.js), Spring Boot Test, in-memory DB for isolated tests
+- **Dockerization:** Multi-service apps for local dev (Node/PostgreSQL/Prisma), infrastructure-as-code for easy setup
+- **Integration Skills:** GNews API, IBGE public APIs, Telegram Webhook, email/SMS services
+
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" alt="GSAP" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
 </p>
 
-### Data, AI & DevOps
+- **SPA (Single Page Application)**: Vue.js 3 with Composition API, modular componentization, router and store setup
+- **State Management**: Pinia (current), Vuex (legacy); using context and hooks for stateful logic
+- **UI/UX Libraries:** PrimeVue, Element Plus, Bootstrap, custom modals/forms
+- **Data Visualization:** Chart.js, ApexCharts, interactive/animated plots via JavaScript, Matplotlib/Seaborn (for reports or analytics)
+- **API Consumption:** Axios/Fetch/Native XHR, JWT auth flows, token renewal
+- **Static/Server Rendering:** Vite/Webpack build chain (Vue/Laravel), also experience using ES6+ with HTML/CSS for educational and public sites
+- **Testing and QA:** Manual browser tests, screenshots, interactive quizzes, accessibility checks
+- **Web Fundamentals:** HTML5, CSS3 (responsive UI), PHP for backend integration with form processing, AJAX, and real-time feedback
+- **Real-Time Dashboards/Admin Panels:** Bootstrap, vanilla JS or Vue for admin pages, health metrics, and CRUD
+- **Lead capture & LGPD Compliance:** Data protection forms, cookie management, front-end validation
+
+### Data, AI & Analytics
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Web Scraping PHP" />
-  <img src="https://img.shields.io/badge/Basic%20ML-0E76A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Basic ML" />
 </p>
 
-- **Data Processing**: Pandas · Web Scraping (PHP, Python)
-- **Basic Machine Learning**: Classification/Relevance (LLMs, Rules, Keywords)
-- **API Integration, Webhooks and OAuth**
-- **Docker, Git, Basic CI/CD**
-- **Cloud/Shared Hosting:** Deployment on Hostinger, Linux CLI, Apache .htaccess, .env environments
+- **Data Engineering:** SQLite DB design, ETL pipeline construction (Python)
+- **Data Science/EDA:** Pandas for cleaning, joining, and complex groupings
+- **Professional Data Visualization:** Matplotlib/Seaborn, out-of-the-box for trend analysis and portfolio-quality charts
+- **Customization:** Integration with Streamlit, automation with schedulers/GitHub Actions
+- **Machine Learning:** Basic ML workflows (classification/metrics), exploratory model prototyping
 
 ### Cloud & Infra
 <p>
