@@ -1,24 +1,17 @@
-# 👨🏻‍💻 Web Developer · AI Automation · Cloud Solutions
-<p align="center">
-  <em>Driving growth with Cloud, AI & Web solutions</em>
-</p>
+<!-- =========================
+     Profile README — solozabal
+     ========================= -->
+
+<h1 align="center">Web Developer · Commercial Dietitian · Sales-Driven</h1>
 
 <p align="center">
-  <!-- Core badges -->
-  <img src="https://img.shields.io/badge/Web%20Developer-121212?style=for-the-badge&logo=github&logoColor=white" alt="Web Developer" />
-  <img src="https://img.shields.io/badge/AI%20Automation-1F6FEB?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/Cloud%20Solutions-0A66C2?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Solutions" />
+  <em>Business-first builder with a leadership mindset — I connect strategy, communication and execution to deliver measurable results.</em>
 </p>
 
 ---
 
-# ✨ Highlight Projects
-
-A short selection of recent projects — concise, focused, ready for a README card.
-
-- [Healthy Retail Monitor AI](https://github.com/solozabal/healthy-retail-monitor-ai-laravel-vue)  
-  AI monitoring for pharmacies, body shops and natural-product stores — automated ingestion, analytics dashboard, and Telegram alerts to help with insights to improve sales and profit.
-  _Tech: Laravel · Vue.js · Telegram_
+## ✨ Highlight Projects
+A short selection of recent projects.
 
 - [Anhanguera ML — Sales Analysis (Python)](https://github.com/solozabal/anhanguera-ml-sales-analysis-python)  
   Reproducible sales analysis with SQLite + Pandas and clear Matplotlib/Seaborn visualizations.  
@@ -32,9 +25,19 @@ A short selection of recent projects — concise, focused, ready for a README ca
   Interactive Streamlit dashboard with KPIs and charts — Docker-ready for deployment.  
   _Tech: Python · Streamlit · Pandas · Docker_
 
-- [Anhanguera Extension — Frontend](https://github.com/solozabal/anhanguera-extension-project-II-frontend)  
+- [Anhanguera Extension — Fullstack](https://github.com/solozabal/anhanguera-extension-project-II-frontend)  
   Senior-focused informational frontend about medicines and vaccines — responsive and LGPD-aware.  
   _Tech: PHP · MySQL · Bootstrap · JavaScript_
+
+---
+
+## 🧭 About
+- 43 — career pivot powered by **business, leadership and communication**
+- 10+ years in **sales / commercial leadership** (supplements, franchise management)
+- 11 months in **tech experience** (Compass UOL — scholarship program + trainee)
+- 12 months total as **restaurant manager** (industrial kitchens + self-service)
+
+> My strong zone: **leading people, commanding execution, generating ideas, and turning goals into results.**
 
 ---
 
@@ -80,45 +83,40 @@ A short selection of recent projects — concise, focused, ready for a README ca
 
 ---
 
-## 🤝 Soft Skills
-
-- Agile (Scrum & Kanban) · Product-minded engineering  
-- Documentation & onboarding · Clear API docs and READMEs  
-- Troubleshooting, monitoring, and rapid incident response  
-- User-centered design and accessible UX
-
----
-
 ## 🎓 Certifications
 <p>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS AI Practitioner" />
-  <img src="https://img.shields.io/badge/GCP%20Foundations-4285F4?style=for-the-badge&logo=google-cloud" alt="GCP Foundations" />
-  <img src="https://img.shields.io/badge/GCP%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud" alt="GCP Data Analytics" />
+  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS Certified AI Practitioner" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Foundations-4285F4?style=for-the-badge&logo=google-cloud" alt="Google Cloud Foundations" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud" alt="Google Cloud Data Analytics Certificate" />
 </p>
 
 ---
 
-## 💼 Experience
+## 💼 Experience (high-level)
+- **Compass UOL — Trainee (5 months)**  
+  Worked on core billing flows, implementing payment features (recurring Pix, bank payment slip), supporting tests, cloud-related routines and working within the company's internal system, where data and information needed to be readily available.
 
-- **Compass UOL — Programmer Trainee**  
-  Enhanced the core billing system by implementing new payment features: recurring Pix transactions and boleto invoice processing using Java. Conducted integration and behavioral testing with Ruby/Cucumber. Deployed and managed resources on Microsoft Azure cloud infrastructure.  
-  Operated in an Agile/Scrum environment using Jira for project management. Earned the AWS Certified AI Practitioner certification during this tenure.
+- **Compass UOL — Tech Scholarship Program (6 months)**  
+  Intensive back-end training (Java, Spring Boot, AWS, security, messaging, JWT/OAuth2, microservices) with hands-on projects.
 
-- **Compass UOL — Tech Training Scholarship**  
-  Intensive back-end training in Java, Spring Boot, and AWS. Covered security, Git, SQL, MongoDB, Scrum/Kanban, RabbitMQ, JWT, OAuth2, MVC, and microservices. Applied in three practical projects. Earned the AWS Certified Cloud Practitioner at the end of this program.
+- **Restaurant Manager (12 months total)**  
+  Industrial kitchens and self-service operations: leadership, routines, standards, and execution under pressure.
+
+- **Sales / Franchise Management (10+ years)**  
+  Supplements retail in Drugstore and franchise operations: persuasion, negotiation, team leadership, and KPI-driven commercial performance.
 
 ---
 
 ## 📞 Contact
 <p>
   <a href="https://www.linkedin.com/in/pedro-solozabal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/solozabal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/pedrosolozabal" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0B0B0B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
