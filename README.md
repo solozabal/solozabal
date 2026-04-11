@@ -2,7 +2,7 @@
      Profile README — solozabal
      ========================= -->
 
-<h1 align="center">Propagandista Médico (Neófito) | Geração de Demanda & PDV | Nutricionista | Data-Driven Sales & IA: Elevando a Qualidade e Eficiência da Visitação Médica e F&S</h1>
+<h1 align="center">Propagandista Médico (Neófito) | Consultor de Vendas | Geração de Demanda & PDV | Nutricionista Comercial</h1>
 
 <p align="center">
   <em>Business-first builder with a leadership mindset — I connect strategy, communication and execution to deliver measurable results.</em>
