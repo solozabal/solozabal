@@ -2,7 +2,7 @@
      Profile README — solozabal
      ========================= -->
 
-<h1 align="center">Propagandista Médico (Neófito) | Consultor de Vendas | Geração de Demanda & PDV | Nutricionista</h1>
+<h1 align="center">Propagandista Médico | Geração de Demanda, F&S e PDV | Nutricionista Comercial</h1>
 
 <p align="center">
   <em>Diferencial competitivo: enquanto a maioria foca apenas em cumprir métricas de volume de visitas, eu utilizo IA para transformar dados e auditoria em visitação por conversão – aumentando a qualidade e eficiência das visitas junto aos prescritores, gerentes e proprietários de drogarias, garantindo o Share of Voice (SOV) e maximizando o ROI no PDV.</em>
