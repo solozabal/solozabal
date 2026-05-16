@@ -2,24 +2,20 @@
      Profile README — solozabal
      ========================= -->
 
-<h1 align="center">Propagandista Médico | Geração de Demanda, F&S e PDV | Nutricionista Comercial</h1>
-
-<p align="center">
-  <em>Diferencial competitivo: enquanto a maioria foca apenas em cumprir métricas de volume de visitas, eu utilizo IA para transformar dados e auditoria em visitação por conversão – aumentando a qualidade e eficiência das visitas junto aos prescritores, gerentes e proprietários de drogarias, garantindo o Share of Voice (SOV) e maximizando o ROI no PDV.</em>
-</p>
+<h1 align="center">Nutricionista Comercial | SOV, Geração de Demanda, F&S para Maximizar o ROI</h1>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-**Propagandista Médico (Neófito)** e **Nutricionista Comercial com formação em Tecnologia** e sólida experiência comercial no varejo farmacêutico.
+**Nutricionista Comercial com formação em Tecnologia** e sólida experiência comercial no varejo farmacêutico, além de experiências como gerente de franquia de produtos naturais e suplementos e gerente de restaurantes industriais e self-service.
 
 Conheço o impacto desse trabalho de forma completa:  
 ✅ Sou **paciente** que utiliza medicamentos.  
 ✅ Sou **familiar** que zela por entes queridos que também precisam.  
 ✅ Fui **prescritor** e **vendedor técnico** por vários anos.  
 
-> Minha experiência de vida e profissional é a prova de que um medicamento certo, no momento certo, representa a qualidade de vida de um paciente e a percepção de valor que ele deposita na marca.
+> Minha experiência de vida e profissional é a prova de que um medicamento/suplemento certo, no momento certo, representa a qualidade de vida de um paciente e a percepção de valor que ele deposita na marca.
 
 Ao longo de **43 anos de caminhada**, desenvolvi:  
 - Comunicação assertiva e persuasiva  
